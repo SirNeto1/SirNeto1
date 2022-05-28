@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Olá! Sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Matheus Neto</i></a> 😃️</h1>
   <p align="center">Estudo Sistemas de Informação e compartilho meu aprendizado aqui com vocês.</a>
-  <p align="center">Aqui compatilho todos os meus projeto e irei me sentir muito grato com a sua contribuição, seja muito bem vindo, vlw mesmo! 😉️</h2>
+  <p align="center">Aqui compatilho todos os meus projetos, me sentirei grato com a sua contribuição, seja muito bem vindo, vlw mesmo! 😉️</h2>
 </div>
 <div align="center">
   <a href="https://github.com/SirNeto1">
